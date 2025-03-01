@@ -1,2 +1,3 @@
 # -Hackathon
-this is my  Git repository
+this is my  first Git repository
+Author -Nimish Bhave
